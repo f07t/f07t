@@ -104,12 +104,12 @@ export const botConfig = {
 
       // Neutral utility colors.
       light: "#FFFFFF",
-      dark: "#202225",
+      dark: "#000000",
       gray: "#99AAB5",
 
       // Discord-style palette shortcuts.
       blurple: "#5865F2",
-      green: "#57F287",
+      green: "#000000",
       yellow: "#FEE75C",
       fuchsia: "#EB459E",
       red: "#ED4245",
@@ -126,17 +126,17 @@ export const botConfig = {
         closed: "#ED4245",
         pending: "#99AAB5",
       },
-      economy: "#F1C40F",
-      birthday: "#E91E63",
-      moderation: "#9B59B6",
+      economy: "#000000",
+      birthday: "#000000",
+      moderation: "#000000",
 
       // Ticket priority color mapping.
       priority: {
-        none: "#95A5A6",
-        low: "#3498db",
-        medium: "#2ecc71",
-        high: "#f1c40f",
-        urgent: "#e74c3c",
+        none: "#000000",
+        low: "#000000",
+        medium: "#000000",
+        high: "#000000",
+        urgent: "#000000",
       },
     },
     footer: {
